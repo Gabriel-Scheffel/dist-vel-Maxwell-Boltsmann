@@ -1,2 +1,2 @@
-# disi-Maxwell-Boltsmann
+# dist-Maxwell-Boltsmann
  Distribuição de velocidade Maxwell-Boltsmann
